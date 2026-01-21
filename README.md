@@ -75,7 +75,9 @@ I'm a **Data Science student** at the Institute of Management Sciences, Peshawar
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-asifkhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=muhammad-asifkhan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
