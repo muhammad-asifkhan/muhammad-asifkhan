@@ -62,12 +62,12 @@ I'm a **Data Science student** at the Institute of Management Sciences, Peshawar
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-asifkhan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-asifkhan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.demolab.com/?user=muhammad-asifkhan&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-asifkhan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-asifkhan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="180" />
 </div>
 
 ---
@@ -75,7 +75,7 @@ I'm a **Data Science student** at the Institute of Management Sciences, Peshawar
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-asifkhan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-asifkhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 </div>
 
 ---
