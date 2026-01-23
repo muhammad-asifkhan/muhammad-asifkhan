@@ -92,6 +92,11 @@ I'm a **Data Science student** at the Institute of Management Sciences, Peshawar
 
 ### 💼 Featured Projects
 
+#### ⚡ Hybrid Energy Profiler
+**Description:** A sophisticated Linux process energy profiling tool that combines user-space monitoring with kernel-level data collection. Features real-time web dashboard, energy scoring algorithm, process classification, and historical tracking.  
+**Tech Stack:** Python, Flask, eBPF, SQLite, Docker  
+**Link:** [View Project](https://github.com/muhammad-asifkhan/hybrid-energy-profiler)
+
 #### 📚 Library Management System
 **Description:** A comprehensive C++17 Library Management System with GUI interface built using Dear ImGui and SFML. Features role-based authentication (Student/Librarian), BST-based book catalog, transaction history, request queue, and data persistence.  
 **Tech Stack:** C++, CMake, Dear ImGui, SFML  
