@@ -28,11 +28,14 @@ I'm a **Data Science student** at the Institute of Management Sciences, Peshawar
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -47,8 +50,9 @@ I'm a **Data Science student** at the Institute of Management Sciences, Peshawar
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-#### Databases
+#### Databases & Storage
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-FF6F00?style=for-the-badge&logo=indexeddb&logoColor=white)
 
 #### Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -92,6 +96,11 @@ I'm a **Data Science student** at the Institute of Management Sciences, Peshawar
 
 ### 💼 Featured Projects
 
+#### 📱 Haani Installments - Offline Business Manager
+**Description:** A fully offline-capable Progressive Web App (PWA) for managing installment-based business operations. Features customer management, payment tracking with automatic calculations, comprehensive reports (monthly/annual/total), admin access control, and data export/import capabilities. Built specifically for Haani Installments with mobile-optimized interface.  
+**Tech Stack:** React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, IndexedDB, PWA  
+**Link:** [View Project](http://github.com/muhammad-asifkhan/haani-loans)
+
 #### ⚡ Hybrid Energy Profiler
 **Description:** A sophisticated Linux process energy profiling tool that combines user-space monitoring with kernel-level data collection. Features real-time web dashboard, energy scoring algorithm, process classification, and historical tracking.  
 **Tech Stack:** Python, Flask, eBPF, SQLite, Docker  
@@ -109,8 +118,6 @@ I'm a **Data Science student** at the Institute of Management Sciences, Peshawar
 
 ---
 
----
-
 ### 🤝 Connect With Me
 
 <div align="center">
@@ -124,8 +131,6 @@ I'm a **Data Science student** at the Institute of Management Sciences, Peshawar
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
----
 
 ---
 
