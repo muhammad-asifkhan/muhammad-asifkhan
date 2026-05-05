@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Asif+Khan!;" />
 </div>
 <div align="center">
@@ -48,6 +48,8 @@ I'm a **Data Science student** at the Institute of Management Sciences, Peshawar
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=for-the-badge&logo=xgboost&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-4051b5?style=for-the-badge&logoColor=white)
  
 #### Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -129,6 +131,39 @@ I'm a **Data Science student** at the Institute of Management Sciences, Peshawar
  
 ---
  
+
+---
+
+### 🎓 CodeAlpha Data Science Internship Projects
+
+#### 🌸 Iris Flower Classification
+**Description:** End-to-end multiclass classification pipeline to identify Iris species (Setosa, Versicolor, Virginica) from sepal and petal measurements. Includes statistical hypothesis testing (Kruskal-Wallis, Mann-Whitney U), PCA dimensionality reduction, hyperparameter tuning via GridSearchCV, ROC curves (One-vs-Rest), learning curves, permutation importance, and a production-ready joblib pipeline achieving ~98% accuracy.
+**Tech Stack:** Python, scikit-learn, SVM, Random Forest, PCA, scipy, matplotlib, seaborn, joblib
+**Link:** [View Project](https://github.com/muhammad-asifkhan/CodeAlpha_iris_analysis)
+
+---
+
+#### 📊 Unemployment Analysis with Python
+**Description:** Rigorous time-series analysis of India's unemployment crisis (2019–2020), quantifying the catastrophic impact of COVID-19. Features Welch's t-test with Cohen's d effect size, Savitzky-Golay trend smoothing, state-level before/after COVID comparisons, Rural vs Urban split violin analysis, and a month × state heatmap. Statistically confirmed a +222% unemployment surge (p < 0.001, Cohen's d > 1.5).
+**Tech Stack:** Python, pandas, scipy, matplotlib, seaborn, statsmodels
+**Link:** [View Project](https://github.com/muhammad-asifkhan/CodeAlpha_Unemployment_Analysis)
+
+---
+
+#### 🚗 Car Price Prediction with Machine Learning
+**Description:** Production-grade regression pipeline for predicting used car resale prices. Features Shapiro-Wilk normality testing, VIF multicollinearity analysis, feature engineering (Car_Age, depreciation ratio), RandomizedSearchCV hyperparameter tuning, full residual diagnostics (Q-Q plots, scale-location), partial dependence plots, and a deployable XGBoost pipeline achieving R² ≈ 0.97.
+**Tech Stack:** Python, XGBoost, scikit-learn, statsmodels, scipy, pandas, joblib
+**Link:** [View Project](https://github.com/muhammad-asifkhan/CodeAlpha_Car_data_analysis)
+
+---
+
+#### 📈 Sales Prediction using Python
+**Description:** Advertising spend vs sales regression analysis with OLS assumption validation, VIF multicollinearity check, polynomial and TV×Radio interaction feature engineering, and SLSQP constrained budget optimisation via scipy.optimize. Hyperparameter-tuned XGBoost achieves R² ≈ 0.98. Proves Newspaper spend is statistically insignificant (p=0.86) while TV×Radio synergy drives the highest lift.
+**Tech Stack:** Python, XGBoost, scikit-learn, statsmodels, scipy, pandas, joblib
+**Link:** [View Project](https://github.com/muhammad-asifkhan/CodeAlpha_Advertising_analysis)
+
+---
+
 ### 🤝 Connect With Me
  
 <div align="center">
@@ -152,3 +187,4 @@ I'm a **Data Science student** at the Institute of Management Sciences, Peshawar
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=footer"/>
 </div>
+
